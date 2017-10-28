@@ -1,4 +1,7 @@
 {
   "name" : "letscodehu/service-layer-api",
-  "version" : "1.0.0"
+  "version" : "1.0.0",
+  "autoload" : {
+    "Letscodehu\\" : "src/"
+  }
 }
